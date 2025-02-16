@@ -105,4 +105,33 @@
 
 <img src="https://i.imgur.com/JgtrAcE.jpeg" alt="anime_info" width="21%">
 
+## 完整資料比對
+
+### 作品名稱、作品原名
+
+<img src="https://i.imgur.com/hYb6kEj.png" alt="anime_info" width="80%">
+
+### 播放網址
+
+<img src="https://i.imgur.com/ddYtmg3.png" alt="anime_info" width="55%">
+
+### 圖片網址
+
+<img src="https://i.imgur.com/oWo7LGL.png" alt="anime_info" width="55%">
+
+### 作品介紹
+
+<img src="https://i.imgur.com/oWuhO7f.png" alt="anime_info" width="70%">
+
+### 集數、付費要求、雙語、作品資料網址
+
+<img src="https://i.imgur.com/zMDEH0e.png" alt="anime_info" width="70%">
+
+### 作品平台、作品類型、播映方式、對象族群、首播地區、當地首播、台灣首播
+
+<img src="https://i.imgur.com/da5Hfjb.png" alt="anime_info" width="75%">
+
+### 當地發售、台灣發售、作品分級、台灣代理、官方網站
+
+<img src="https://i.imgur.com/XYqDF2S.png" alt="anime_info" width="75%">
 
