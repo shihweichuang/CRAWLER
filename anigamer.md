@@ -135,3 +135,22 @@
 
 <img src="https://i.imgur.com/XYqDF2S.png" alt="anime_info" width="75%">
 
+### 作品分類
+
+<img src="https://i.imgur.com/1Awe1Ca.jpeg" alt="anime_info" width="40%">
+
+### 原著作者
+
+<img src="https://i.imgur.com/hpJKEZf.jpeg" alt="anime_info" width="35%">
+
+### 導演監督
+
+<img src="https://i.imgur.com/nKLjCfd.jpeg" alt="anime_info" width="37%">
+
+### 製作廠商
+
+<img src="https://i.imgur.com/2ve3gHq.jpeg" alt="anime_info" width="45%">
+
+### 觀看次數、評分星數、評分人數、星數
+
+<img src="https://i.imgur.com/4r4rHLS.jpeg" alt="anime_info" width="65%">
