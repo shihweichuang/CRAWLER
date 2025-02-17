@@ -35,14 +35,18 @@
 
 <img src="https://i.imgur.com/iVbwTQU.png" alt="" width="28%"> <img src="https://i.imgur.com/rHVQNdp.png" alt="" width="52%">
 
+### 5. 總表 (salary)
+
+<img src="https://i.imgur.com/yry6JNS.png" alt="總表" width="46%">
+
 <br>
 
 ## 範例
 
 ### 1. MIS工程師
 
-<img src="https://i.imgur.com/zGm0q5x.png" alt="MIS工程師-表格" width="65%"> <img src="https://i.imgur.com/f8z21Nc.png" alt="MIS工程師-截圖" width="51%">
+<img src="https://i.imgur.com/je8clxP.png" alt="MIS工程師-表格" width="48%"> <img src="https://i.imgur.com/f8z21Nc.png" alt="MIS工程師-截圖" width="45%">
 
 ### 2. 市場調查 / 分析人員
 
-<img src="https://i.imgur.com/gKtsANE.png" alt="市場調查/分析人員-表格" width="66%"> <img src="https://i.imgur.com/T17lG7P.png" alt="市場調查/分析人員-截圖" width="51%">
+<img src="https://i.imgur.com/zWrZ053.png" alt="市場調查/分析人員-表格" width="52%"> <img src="https://i.imgur.com/T17lG7P.png" alt="市場調查/分析人員-截圖" width="45%">
