@@ -24,16 +24,16 @@
 
 ### 2. 工作年資 (experience)
 
-<img src="https://i.imgur.com/P0G2h70.png" alt="" width="22%"> <img src="https://i.imgur.com/pLBL8YE.png" alt="" width="51%">
+<img src="https://i.imgur.com/P0G2h70.png" alt="工作年資-表格" width="22%"> <img src="https://i.imgur.com/pLBL8YE.png" alt="工作年資-截圖" width="51%">
 
 ### 3. 教育程度 (edu)
 
-<img src="https://i.imgur.com/zBec0l0.png" alt="" width="24%">
-<img src="https://i.imgur.com/don2AtX.jpeg" alt="" width="52%">
+<img src="https://i.imgur.com/zBec0l0.png" alt="教育程度-表格" width="24%">
+<img src="https://i.imgur.com/don2AtX.jpeg" alt="教育程度-截圖" width="52%">
 
 ### 4. 資料來源區間 (data_period)
 
-<img src="https://i.imgur.com/iVbwTQU.png" alt="" width="28%"> <img src="https://i.imgur.com/rHVQNdp.png" alt="" width="52%">
+<img src="https://i.imgur.com/iVbwTQU.png" alt="資料來源區間-表格" width="28%"> <img src="https://i.imgur.com/rHVQNdp.png" alt="資料來源區間-截圖" width="52%">
 
 ### 5. 總表 (salary)
 
