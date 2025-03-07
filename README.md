@@ -5,3 +5,6 @@
 2. [1111 薪資公秤 / job_salary_1111](https://github.com/shihweichuang/CRAWLER/blob/master/job_salary_1111.md)
 
 3. [104 薪資情報 / job_salary_104](https://github.com/shihweichuang/CRAWLER/blob/master/job_salary_104.md)
+
+4. [1111 職缺清單 / job_title_1111](https://github.com/shihweichuang/CRAWLER/blob/master/job_title_1111.md)
+
