@@ -13,3 +13,5 @@
 6. [小雞上工 職缺清單 / chickpt_title](https://github.com/shihweichuang/CRAWLER/blob/master/chickpt_title.md)
 
 7. [大學選材與高中育才輔助系統(Collego)-所有學類之能力特質 / collego_category_ability](https://github.com/shihweichuang/CRAWLER/blob/master/collego_category_ability.md)
+
+8. [大學選材與高中育才輔助系統(Collego)-所有學類之對應校系 / collego_category_school]([https://github.com/shihweichuang/CRAWLER/blob/master/collego_category_ability.md](https://github.com/shihweichuang/CRAWLER/blob/master/collego_category_school.md))
