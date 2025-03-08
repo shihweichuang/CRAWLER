@@ -1,5 +1,15 @@
 # 大學選材與高中育才輔助系統(Collego)-所有學類之對應校系
 
+<br>
+
+## 使用需求
+
+爬取所有學類的對應校系。
+
+注意：使用者無須將爬取資料進行正則化，故無將學類名稱、學校名稱、系所名稱進行處理。
+
+<br>
+
 ## 爬取頁面
 
 ### <a href="https://collego.edu.tw/Highschool/MajorIntro?current_major_id=1&collegeFrom=1">大學選材與高中育才輔助系統(Collego)-對應校系</a>
