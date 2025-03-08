@@ -1,5 +1,11 @@
 # 1111 職缺清單
 
+## 使用需求
+
+爬取指定關鍵字的職缺清單及相關資訊。
+
+<br>
+
 ## 爬取頁面
 
 ### 1. <a href="https://www.1111.com.tw/search/job?page=1&col=ab&sort=desc&ks=APP%E9%96%8B%E7%99%BC%E5%B7%A5%E7%A8%8B%E5%B8%AB">1111人力銀行-職缺搜尋</a>
