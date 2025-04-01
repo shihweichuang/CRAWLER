@@ -24,7 +24,7 @@
 
 ### 作者 (author)、按讚數 (like_count)、分享數 (share_count)、留言數 (comment_count)、內容 (comment)、發文時間 (created_at)、爬文時間 (create_time)
 
-<img src="https://i.imgur.com/PYJEWp9.jpeg" alt="資料庫儲存" width="100%">
+<img src="https://i.imgur.com/ePrZqK8.jpeg" alt="資料庫儲存" width="100%">
 
 <br>
 
@@ -32,52 +32,50 @@
 
 ### 1
 
-<img src="https://i.imgur.com/6sR7i3o.jpeg" alt="範例1" width="80%">
-<img src="https://i.imgur.com/QMAL1Ge.jpeg" alt="範例1" width="100%">
+<img src="https://i.imgur.com/09mmKm9.jpeg" alt="範例1" width="50%">
+<img src="https://i.imgur.com/OL5FLWD.jpeg" alt="範例1" width="100%">
 
 ### 2
 
-<img src="https://i.imgur.com/2uFayZ0.jpeg" alt="範例2" width="80%">
-<img src="https://i.imgur.com/1n32qnP.jpeg" alt="範例2" width="100%">
+<img src="https://i.imgur.com/TB7JmLN.jpeg" alt="範例2" width="50%">
+<img src="https://i.imgur.com/dirRxch.jpeg" alt="範例2" width="100%">
 
 ### 3
 
-<img src="https://i.imgur.com/0IXDNZH.jpeg" alt="範例3" width="80%">
-<img src="https://i.imgur.com/l0ZBf69.jpeg" alt="範例3" width="100%">
+<img src="https://i.imgur.com/1SsXvcs.jpeg" alt="範例3" width="50%">
+<img src="https://i.imgur.com/YCfT35f.jpeg" alt="範例3" width="100%">
 
 ### 4 
 
-<img src="https://i.imgur.com/jLxEToq.jpeg" alt="範例4" width="80%">
-<img src="https://i.imgur.com/78yghci.jpeg" alt="範例4" width="80%">
-<img src="https://i.imgur.com/w4VSItW.jpeg" alt="範例4" width="100%">
+<img src="https://i.imgur.com/dtIRyQ2.jpeg" alt="範例4" width="50%">
+<img src="https://i.imgur.com/cDAmzP3.jpeg" alt="範例4" width="100%">
 
 ### 5
 
-<img src="https://i.imgur.com/qtwZS8Q.jpeg" alt="範例5" width="80%">
-<img src="https://i.imgur.com/47Kyzcn.jpeg" alt="範例5" width="100%">
+<img src="https://i.imgur.com/9iQ1jTC.jpeg" alt="範例5" width="50%">
+<img src="https://i.imgur.com/r7G9qNq.jpeg" alt="範例5" width="100%">
 
 ### 6
 
-<img src="https://i.imgur.com/0m3imxT.jpeg" alt="範例6" width="80%">
-<img src="https://i.imgur.com/SbBHZg2.jpeg" alt="範例6" width="100%">
+<img src="https://i.imgur.com/pzqaSgY.jpeg" alt="範例6" width="50%">
+<img src="https://i.imgur.com/LpfdoTr.jpeg" alt="範例6" width="100%">
 
 ### 7
 
-<img src="https://i.imgur.com/SsgJi99.jpeg" alt="範例7" width="80%">
-<img src="https://i.imgur.com/3868nih.jpeg" alt="範例7" width="100%">
+<img src="https://i.imgur.com/uJQ2fzj.jpeg" alt="範例7" width="50%">
+<img src="https://i.imgur.com/yUHvFif.jpeg" alt="範例7" width="100%">
 
 ### 8
 
-<img src="https://i.imgur.com/uguHZDW.jpeg" alt="範例8" width="80%">
-<img src="https://i.imgur.com/mjgLo1N.jpeg" alt="範例8" width="80%">
-<img src="https://i.imgur.com/7wkww8M.jpeg" alt="範例8" width="100%">
+<img src="https://i.imgur.com/MqzS4SE.jpeg" alt="範例8" width="50%">
+<img src="https://i.imgur.com/oBmK5dd.jpeg" alt="範例8" width="100%">
 
 ### 9
 
-<img src="https://i.imgur.com/00jLySQ.jpeg" alt="範例9" width="80%">
-<img src="https://i.imgur.com/oYHabv7.jpeg" alt="範例9" width="100%">
+<img src="https://i.imgur.com/bU9xzQm.jpeg" alt="範例9" width="50%">
+<img src="https://i.imgur.com/46I1IlA.jpeg" alt="範例9" width="100%">
 
 ### 10
 
-<img src="https://i.imgur.com/UWakqsi.jpeg" alt="範例10" width="80%">
-<img src="https://i.imgur.com/H8OrE6m.jpeg" alt="範例10" width="100%">
+<img src="https://i.imgur.com/8QEWE9T.jpeg" alt="範例10" width="50%">
+<img src="https://i.imgur.com/TrnErrF.jpeg" alt="範例10" width="100%">
